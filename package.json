@@ -1,0 +1,24 @@
+{
+  "name": "selenium-node-tests",
+  "version": "1.0.0",
+  "description": "Some testing with Selenium &amp; Node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/T14g/selenium-node-tests.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/T14g/selenium-node-tests/issues"
+  },
+  "homepage": "https://github.com/T14g/selenium-node-tests#readme",
+  "dependencies": {
+    "chromedriver": "^83.0.0",
+    "g": "^2.0.1",
+    "selenium-webdriver": "^4.0.0-alpha.7"
+  }
+}
